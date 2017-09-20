@@ -12,3 +12,4 @@ an open world head to head tank fight with simple ai, terrain and advanced contr
 
 
 ###BT Game Design Document
+### BT 03 Settingup a git hub repo file
