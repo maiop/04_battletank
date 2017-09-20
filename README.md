@@ -9,3 +9,6 @@ an open world head to head tank fight with simple ai, terrain and advanced contr
 + Heavy focus on control systems 
 + Also learning terrains, UI, terrain sculpting & more 
 + Dive right in and enjoy yourself!
+
+
+###BT Game Design Document
